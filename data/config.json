@@ -1,0 +1,7 @@
+{
+    "zone": "Room1",
+    "wifiName": "ktsu-io",
+    "wifiPassword": "katsu",
+    "serverHostname": "192.168.0.255",
+    "serverPort": 42069
+}
